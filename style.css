@@ -7,7 +7,7 @@
   .container {
     max-width: 1417px;
     width: 100%;
-    margin: 0 auto;
+    margin-inline: auto;
   }
   
   .heading-2 {
